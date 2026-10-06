@@ -23,4 +23,4 @@ Repositório avançado em Python focado em limpeza, tratamento inteligente de va
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/brunaalce/processamento-avancado.git](https://github.com/brunaalce/processamento-avancado.git)
+   git clone https://github.com/brunaalce/processamento-avancado.git
